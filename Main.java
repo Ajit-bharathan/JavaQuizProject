@@ -9,6 +9,7 @@ public class Main {
 
         service.quiz();
         service.printScore();
+	System.out.println("Thankyou");
 
         
     }
